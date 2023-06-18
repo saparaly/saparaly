@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **vue and golang**
 
-- 👨‍💻 See my portfolio at [here]([https://github.com/saparaly/saparaly](https://saparaly.github.io/portfolio/))
+- 👨‍💻 See my portfolio at [here](https://saparaly.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
